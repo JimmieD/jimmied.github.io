@@ -5,7 +5,7 @@ body {
 
 #clock {
   font-family: Arial;
-  font-size: calc(6vh + 3vw);
+  font-size: calc(8vh + 4.5vw);
   text-align: center;
   padding-top: 2px;
   color: hsl(120, 100%, 75%);
@@ -14,7 +14,7 @@ body {
 
 #est {
   font-family: Arial;
-  font-size: calc(6vh + 3vw);
+  font-size: calc(8vh + 4.5vw);
   text-align: center;
   padding-top: 2px;
   color: hsl(120, 100%, 75%);
@@ -23,7 +23,7 @@ body {
 
 #kst {
   font-family: Arial;
-  font-size: calc(6vh + 3vw);
+  font-size: calc(8vh + 4.5vw);
   text-align: center;
   padding-top: 2px;
   color: hsl(120, 100%, 75%);
