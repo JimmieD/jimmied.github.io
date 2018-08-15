@@ -1,0 +1,31 @@
+body {
+  background-color: #1d1f20;
+  color: #FFFFFF;
+}
+
+#clock {
+  font-family: Arial;
+  font-size: calc(8vh + 4.5vw);
+  text-align: center;
+  padding-top: 2px;
+  color: hsl(120, 100%, 75%);
+  display:inline-block;
+}
+
+#est {
+  font-family: Arial;
+  font-size: calc(8vh + 4.5vw);
+  text-align: center;
+  padding-top: 2px;
+  color: hsl(120, 100%, 75%);
+  display:inline-block
+}
+
+#kst {
+  font-family: Arial;
+  font-size: calc(8vh + 4.5vw);
+  text-align: center;
+  padding-top: 2px;
+  color: hsl(120, 100%, 75%);
+  display:inline-block
+}
