@@ -8,7 +8,7 @@ function startTime() {
   var h_est = h + offset_est;
   var h_kst = h + offset_kst;
   
-  if (h_est > 24) {
+  if (h_est >= 24) {
     h_est = h_est - 24;
   }
   if (h_est < 0) {
