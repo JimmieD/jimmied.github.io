@@ -15,7 +15,7 @@ function startTime() {
     h_est = h_est + 24;
   }
   
-    if (h_kst > 24) {
+    if (h_kst >= 24) {
     h_kst = h_kst - 24;
   }
   if (h_kst < 0) {
